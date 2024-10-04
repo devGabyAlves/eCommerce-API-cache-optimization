@@ -1,0 +1,9 @@
+venv/
+
+.vscode/
+
+storage.db
+
+__pycache__/
+
+.env
