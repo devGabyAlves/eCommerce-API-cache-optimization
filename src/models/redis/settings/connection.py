@@ -1,7 +1,7 @@
 from redis import Redis
 
 
-class RedisConnectioHanddler:
+class RedisConnectionHandler:
     def __init__(self) -> None:
         self.__redis_conn = None
 
